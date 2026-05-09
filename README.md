@@ -11,7 +11,7 @@
 
 ## 🛠 About Me
 
-- 🎓 **have 13 years only but learned how to be on Top👑**
+- 👑 **have 13 years only but learned how to be on Top**
 - 🧠 Interested in **automatic systems** 
 - 🌍 Trilingual: English · Persian 
 - 🎯 Building scalable systems and shipping tools that solve real problems
