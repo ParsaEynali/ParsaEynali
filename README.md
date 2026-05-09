@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ParsaEynali">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00ff44&center=true&vCenter=true&lines=Bug+Hunter+|+automatic systems architect;Python+|+typescript+|+JS+|+PHP+|+c#" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00ff44&center=true&vCenter=true&lines=Bug+Hunter+%7C+automatic+systems architect;Python+%7C+typescript+%7C+JS+%7C+PHP+%7C+c" />
   </a>
 </p>
 
