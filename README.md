@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#00ff44">Parsa</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
-<!--
-**ParsaEynali/ParsaEynali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/iliyadindar">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00ff44&center=true&vCenter=true&lines=Bug+Hunter+|+automatic systems architect;Python+|+typescript+|+JS+|+PHP+|+c#" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 🛠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **have 13 years only but learned how to be on Top👑**
+- 🧠 Interested in **automatic systems** 
+- 🌍 Trilingual: English · Persian 
+- 🎯 Building scalable systems and shipping tools that solve real problems
