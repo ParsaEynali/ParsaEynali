@@ -3,12 +3,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
+---
+
 <p align="center">
   <a href="https://github.com/iliyadindar">
     <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&center=true&vCenter=true&lines=SoftWare+Architects+%7C+Bug+Hunter;Python+%7C+TypeScript+%7C+PHP+%7C+C%2B%2B;Always+Learning+Something" />
   </a>
 </p>
 
+---
 
 ## 🛠 About Me
 
@@ -16,6 +19,8 @@
 - 🧠 Interested in **automatic systems** 
 - 🌍 Trilingual: English · Persian 
 - 🎯 Building scalable systems and shipping tools that solve real problems
+
+---
 
 ## 💻 Tech Stack
 
@@ -58,6 +63,8 @@
 | ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ⭐⭐⭐ |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) | ⭐⭐⭐⭐ |
 
+---
+
 ## ⚒ Projects
 ⚪ = test or soft programming
 
@@ -75,10 +82,22 @@
 | PalaAI | AI for Solving problems| `AI` `Python` `PyTorch` | ⚪|
 | ParaLock | A python system that creates Password | `python` `terminal based` `security ` | 🔴|
 
+---
+
 ## 🌍 Connect With Me
 
 Email = ``` parsabotcreator@gmail.com ```
 
+## 🐍 Fun Touch
 
+<p align="center">
+  <img src="https://github.com/parsaeynali/parsaeynali/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+<p align="center">
+  <i>Parsa's website: Backend Like Hero - Front like Zero</i>
+</p>
 
 
