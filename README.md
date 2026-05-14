@@ -75,6 +75,9 @@
 | PalaAI | AI for Solving problems| `AI` `Python` `PyTorch` | ⚪|
 | ParaLock | A python system that creates Password | `python` `terminal based` `security ` | 🔴|
 
+## 🌍 Connect With Me
+
+Email = ``` parsabotcreator@gmail.com ```
 
 
 
