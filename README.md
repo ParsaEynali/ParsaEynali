@@ -58,4 +58,20 @@
 | ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ⭐⭐⭐ |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) | ⭐⭐⭐⭐ |
 
+## ⚒ Projects
+⚪ = test or soft programming
+🔴 = Stopped programming
+🟢 = programming hard
+🔵 = publiced / luanched
+| name | description | status |
+|---------|---------|---------|
+| LoginPage | simple login page for websites | 🔵 |
+| ParaChat | modern messanger have custom profile | ⚪ |
+| IOS frontend style | IOS like Style Pack | 🟢 |
+| PalaAI | AI for Solving problems  | ⚪ |
+| ParaLock | A python system that creates Password | 🔴 |
+
+
+
+
 
