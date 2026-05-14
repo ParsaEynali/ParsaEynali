@@ -65,11 +65,11 @@
 🔵 = publiced / luanched
 | name | description | status |
 |---------|---------|---------|
-| LoginPage | simple login page for websites | 🔵 |
-| ParaChat | modern messanger have custom profile | ⚪ |
-| IOS frontend style | IOS like Style Pack | 🟢 |
-| PalaAI | AI for Solving problems  | ⚪ |
-| ParaLock | A python system that creates Password | 🔴 |
+| LoginPage | simple login page for websites | 🔵|
+| ParaChat | modern messanger have custom profile | ⚪|
+| IOS frontend style | IOS like Style Pack | 🟢|
+| PalaAI | AI for Solving problems  | ⚪|
+| ParaLock | A python system that creates Password | 🔴|
 
 
 
