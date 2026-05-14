@@ -67,13 +67,13 @@
 
 🔵 = publiced / luanched
 
-| name | description | status |
-|---------|---------|---------|
-| LoginPage | simple login page for websites | 🔵|
-| ParaChat | modern messanger have custom profile | ⚪|
-| IOS frontend style | IOS like Style Pack | 🟢|
-| PalaAI | AI for Solving problems  | ⚪|
-| ParaLock | A python system that creates Password | 🔴|
+| name | description | technology | status |
+|---------|---------|---------|---------|
+| LoginPage | simple login page for websites| `CSS` `JS` `WebDesing` | 🔵|
+| ParaChat | modern messanger have custom profile| `WebSocket` `Desing` `MySQL` `flask` | ⚪|
+| IOS frontend style | IOS like Style Pack| `FrontEnd` `Webdesing` `pack` | 🟢|
+| PalaAI | AI for Solving problems| `AI` `Python` `PyTorch` | ⚪|
+| ParaLock | A python system that creates Password | `python` `terminal based` `security ` | 🔴|
 
 
 
