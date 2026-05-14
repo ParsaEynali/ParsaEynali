@@ -60,9 +60,13 @@
 
 ## ⚒ Projects
 ⚪ = test or soft programming
+
 🔴 = Stopped programming
+
 🟢 = programming hard
+
 🔵 = publiced / luanched
+
 | name | description | status |
 |---------|---------|---------|
 | LoginPage | simple login page for websites | 🔵|
