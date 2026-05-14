@@ -80,7 +80,7 @@
 | ParaChat | modern messanger have custom profile| `WebSocket` `Desing` `MySQL` `flask` | ⚪|
 | IOS frontend style | IOS like Style Pack| `FrontEnd` `Webdesing` `pack` | 🟢|
 | PalaAI | AI for Solving problems| `AI` `Python` `PyTorch` | ⚪|
-| ParaLock | A python system that creates Password | `python` `terminal based` `security ` | 🔴|
+| PazeLock | A python system that creates Password | `python` `terminal based` `security ` | 🔵|
 
 ---
 
