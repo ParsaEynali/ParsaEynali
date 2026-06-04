@@ -1,71 +1,93 @@
 <h1 align="center">
-  Hey there 👋, I'm <span style="color:#00ff44">Parsa</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  👋 Hey, I'm Parsa
 </h1>
 
----
+<p align="center">
+  <b>Python Automation • Full-Stack Web • Tool Builder</b>
+</p>
 
 <p align="center">
-  <a href="https://github.com/iliyadindar">
-    <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&center=true&vCenter=true&lines=SoftWare+Architects+%7C+Bug+Hunter;Python+%7C+TypeScript+%7C+PHP+%7C+C%2B%2B;Always+Learning+Something" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Building+useful+tools+with+Python;Learning+Full-Stack+Development;Creating+automation+systems;Always+building+something+new" />
 </p>
 
 ---
 
-## 🛠 About Me
+# 🧠 About Me
 
-- 👑 **have 13 years only but learned how to be on Top**
-- 🧠 Interested in **automatic systems** 
-- 🌍 Trilingual: English · Persian 
-- 🎯 Building scalable systems and shipping tools that solve real problems
-
----
-
-## 💻 Tech Stack
-
-### 👨‍💻 Languges
-| type| skill |
-|---------|---------|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ⭐⭐⭐ |
-| ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  | ⭐⭐⭐⭐ |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ⭐⭐⭐⭐⭐ |
-| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ⭐⭐⭐ |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ⭐⭐⭐⭐⭐⭐ - [⭐]Special |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐ |
-| ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) | ⭐⭐⭐⭐ |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | 
-
-### 🔨 FrameWorks
-| type| skill |
-|---------|---------|
-|![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  | ⭐⭐⭐ |
-| ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  | ⭐⭐⭐ |
-| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  | ⭐⭐⭐⭐ |
-| ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82) | ⭐⭐⭐⭐⭐ |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  | ⭐⭐⭐⭐⭐ |
-| ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  | ⭐⭐⭐⭐⭐ |
-| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  | ⭐⭐⭐⭐⭐ |
-| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  | ⭐⭐⭐⭐⭐ |
-| ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  | ⭐⭐⭐⭐ | 
-| ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)  | ⭐⭐⭐⭐⭐ |
-|![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ⭐⭐⭐⭐⭐ |
-|![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ⭐⭐⭐⭐⭐ |
-|![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ⭐⭐⭐ |
-
-
-### 🧠 ML/AI
-| type| skill |
-|---------|---------|
-| ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ⭐⭐⭐ |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) | ⭐⭐⭐⭐ |
+- 🐍 Python developer focused on automation & backend systems
+- 🌐 Learning full-stack web development with Flask & React
+- ⚙️ Interested in building tools that solve real problems
+- 🖥️ Linux & system automation enthusiast
+- 🚀 Currently building real-world projects and improving every day
 
 ---
 
-## ⚒ Projects
+# 🚀 Main Stack
+
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
+</p>
+
+---
+
+## ⚙️ Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+</p>
+
+---
+
+# 🔥 Current Focus
+
+- 🧠 Python automation tools
+- 🌍 Full-stack web applications
+- 💬 Real-time systems with WebSocket
+- ⚡ Building lightweight and useful software
+- 📦 Deploying projects on real servers
+
+---
+
+# 🛠 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 💬 ParaChat | Real-time messaging system with Flask & WebSocket | Flask • WebSocket • MySQL |
+| 🔐 PazeLock | Lightweight password generator tool | Python |
+| 🖥️ SmartDesk | Automatic desktop organizer & cleaner | Python • Automation |
+| 🎨 iOS Frontend Style | Apple-inspired frontend UI pack | HTML • CSS • JS |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parsaeynali&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsaeynali&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌱 Philosophy
+
+> Build real things.  
+> Learn deeply.  
+> Improve constantly.
+
+# ⚒ Projects
 ⚪ = test or soft programming
 
 🔴 = Stopped programming
@@ -82,16 +104,22 @@
 | PalaAI | AI for Solving problems| `AI` `Python` `PyTorch` | ⚪|
 | PazeLock | A python system that creates Password | `python` `terminal based` `security ` | 🔵|
 
+
 ---
 
-## 🌍 Connect With Me
+# 📫 Contact
 
-Email = ``` parsabotcreator@gmail.com ```
+📧 Email: `parsabotcreator@gmail.com`
 
 ---
 
 <p align="center">
-  <i>Parsa's website: Backend Like Hero - Front like Zero</i>
+  <i>Building tools, automating systems, and learning every day 🚀</i>
 </p>
+
+---
+
+
+
 
 
