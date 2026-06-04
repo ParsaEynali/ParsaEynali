@@ -58,14 +58,20 @@
 
 ---
 
-# 🛠 Featured Projects
+# 📌 Project Status
 
-| Project | Description | Tech |
-|---|---|---|
-| 💬 ParaChat | Real-time messaging system with Flask & WebSocket | Flask • WebSocket • MySQL |
-| 🔐 PazeLock | Lightweight password generator tool | Python |
-| 🖥️ SmartDesk | Automatic desktop organizer & cleaner | Python • Automation |
-| 🎨 iOS Frontend Style | Apple-inspired frontend UI pack | HTML • CSS • JS |
+- ⚪ Experimental / Early Development
+- 🟢 Active Development
+- 🔵 Public Release
+- 🔴 Discontinued
+
+| Status | Project | Description | Technologies |
+|---|---|---|---|
+| 🔵 | **LoginPage** | Simple and responsive login page for websites | HTML • CSS • JavaScript |
+| ⚪ | **ParaChat** | Real-time messaging platform with custom user profiles | Flask • WebSocket • MySQL |
+| 🟢 | **iOS Frontend Style** | Apple-inspired frontend UI style pack | HTML • CSS • Frontend Design |
+| ⚪ | **PalaAI** | Experimental AI project for solving simple problems | Python • PyTorch |
+| 🔵 | **PazeLock** | Lightweight terminal-based password generator | Python • Security |
 
 ---
 
