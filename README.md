@@ -26,7 +26,7 @@
 
 ---
 
-# 🚀 Main Stack
+# 🚀 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
@@ -38,42 +38,88 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## ⚙️ Backend & Web
+---
+
+## ⚙️ Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pyTelegramBotAPI-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
-## 🔌 Embedded
+---
+
+## 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebGL-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🎮 Game Development
+
+<p>
+  <img src="https://img.shields.io/badge/Game_Development-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game_Logic-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interactive_Systems-2563EB?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔌 Embedded & Hardware
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electronics-black?style=for-the-badge"/>
 </p>
 
-## 🧠 AI / ML
+---
+
+## 🧠 AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge"/>
 </p>
 
-## 🔐 Security
+---
+
+## 🔐 Cybersecurity
 
 <p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web_Security-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secure_Development-black?style=for-the-badge"/>
 </p>
 
-## 🛠 Tools
+---
+
+## 🛠 Tools & Environment
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
