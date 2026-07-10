@@ -148,7 +148,7 @@
 | ⚪ | **ParaChat** | Real-time messaging platform | Flask • WebSocket • MySQL |
 | 🟢 | **iOS Frontend Style** | Apple-inspired UI components | HTML • CSS • React |
 | ⚪ | **PalaAI** | Experimental AI project | Python • ML |
-| 🔵 | **PazeLock** | Terminal password generator | Python • Security |
+| 🔵 | **[PazeLock](https://github.com/ParsaEynali/PazePasswordGenerator)** | Terminal password generator | Python • Security |
 
 ---
 
